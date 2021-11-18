@@ -1,0 +1,40 @@
+_repo: The-Sacred-Beetle-and-others_66743
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixera de
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixeira de
+    - Teixeira de Mattos, Alexander Louis
+    - Mattos, Alexander Teixeria de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos
+creator:
+  author:
+    agent_name: Fabre, Jean-Henri
+    aliases:
+    - Fabre, J. Henri
+    - Fabre, Jean Henri Casimir
+    - Fabre, Henri
+    birthdate: 1823
+    deathdate: 1915
+    gutenberg_agent_id: '735'
+    url: http://www.gutenberg.org/2009/agents/735
+    wikipedia: https://en.wikipedia.org/wiki/Jean_Henri_Fabre
+description: ''
+gutenberg_issued: '2021-11-15'
+identifiers:
+  gutenberg: '66743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Sacred Beetle and others
+url: http://www.gutenberg.org/ebooks/66743
